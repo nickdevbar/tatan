@@ -563,7 +563,7 @@ body {
 }
 
 #mainSection {
-    background: url(../tatangram.png) 50%/cover no-repeat
+    background: url(./tatangram.png) 50%/cover no-repeat
 }
 
 @property --tw-border-style {
